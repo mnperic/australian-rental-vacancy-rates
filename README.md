@@ -52,6 +52,18 @@ Conversely, <b>Darwin</b> was the exception – with the city experiencing an <b
 
 As outlined in the chart above, this trend was also experienced <b>nationally.</b>
 
+### Price Difference
+
+The figure below demonstrates the <b>drastic increase and difference of rental prices</b> in Metro and Non-Metro (regional) areas across the country over the past two years.
+
+<p align="center">
+  <img src="https://github.com/mnperic/australian-rental-vacancy-rates/raw/main/Images/rental_rates_difference.png" alt="rental_rates_difference"/>
+</p>
+
+The figure shows residents in <b>Non-Metro</b> areas have experienced rental prices going up by as much as <b>3x</b> their original amount in 2019.
+
+It should also be noted that this <b>threefold rental increase</b> has occurred <b>while the same increase in wages has not.</b> 
+
 ## Summary
 
 * Residential rental prices have <b>increased</b> substantially over the <b>February 2021 – February 2022</b> period, with the exception of <b>Melbourne and Hobart unit prices.</b>
