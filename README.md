@@ -1,5 +1,5 @@
-# Australian Residential Rental Prices, Vacancies, Vacancy Rates and Price Rate Differences
- A study of Australian residential rental prices, vacancies, vacancy rates and price rate differences between February 2021 and February 2022. 
+# Australian Residential Rental Prices and Vacancies
+ A study of Australian residential rental prices and vacancies between February 2021 and February 2022. 
  
  ## Overview
  The premise of this study was to investigate the rental price, total number, percentage and trends in Australian residential rental vacancies over a 12-month period between <b>February 2021 and February 2022</b>.
