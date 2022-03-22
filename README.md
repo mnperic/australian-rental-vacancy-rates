@@ -68,7 +68,8 @@ It should also be noted that this <b>threefold rental increase</b> has occurred 
 
 * Residential rental prices have <b>increased</b> substantially over the <b>February 2021 – February 2022</b> period, with the exception of <b>Melbourne and Hobart unit prices.</b>
  * Nationally, the number of available residential properties for rent continues to <b>decline.</b>
- * In 2022, <b>Melbourne</b> continues to have the most residential properties available for rent, with <b>Hobart</b> having the least.  
+ * In 2022, <b>Melbourne</b> continues to have the most residential properties available for rent, with <b>Hobart</b> having the least.
+ * <b>Non-Metro</b> regions have experienced a sharp increase in rental prices compared to Metro regions (with the exception of WA).  
  
 ## References
  
