@@ -17,6 +17,16 @@
  
  Of the cities which observed a rise in rental prices, <b>Darwin</b> experienced the greatest combined rental price increase, with a total increase of <b>35.6%</b> – <b>10.9% for houses</b> and <b>24.7% for units.</b>
  
+Additionally, the figure below demonstrates the <b>drastic increase and difference of rental prices</b> in Metro and Non-Metro (regional) areas across the country over the past two years.
+
+<p align="center">
+  <img src="https://github.com/mnperic/australian-rental-vacancy-rates/raw/main/Images/rental_rates_difference.png" alt="rental_rates_difference"/>
+</p>
+
+The figure shows residents in <b>Non-Metro</b> areas have experienced rental prices going up by as much as <b>3x</b> their original amount in 2019.
+
+It should also be noted that this <b>threefold rental increase</b> has occurred <b>while the same increase in wages has not.</b> 
+ 
 ### Vacancies
 #### State
 
@@ -52,24 +62,12 @@ Conversely, <b>Darwin</b> was the exception – with the city experiencing an <b
 
 As outlined in the chart above, this trend was also experienced <b>nationally.</b>
 
-### Price Difference
-
-The figure below demonstrates the <b>drastic increase and difference of rental prices</b> in Metro and Non-Metro (regional) areas across the country over the past two years.
-
-<p align="center">
-  <img src="https://github.com/mnperic/australian-rental-vacancy-rates/raw/main/Images/rental_rates_difference.png" alt="rental_rates_difference"/>
-</p>
-
-The figure shows residents in <b>Non-Metro</b> areas have experienced rental prices going up by as much as <b>3x</b> their original amount in 2019.
-
-It should also be noted that this <b>threefold rental increase</b> has occurred <b>while the same increase in wages has not.</b> 
-
 ## Summary
 
 * Residential rental prices have <b>increased</b> substantially over the <b>February 2021 – February 2022</b> period, with the exception of <b>Melbourne and Hobart unit prices.</b>
- * Nationally, the number of available residential properties for rent continues to <b>decline.</b>
- * In 2022, <b>Melbourne</b> continues to have the most residential properties available for rent, with <b>Hobart</b> having the least.
- * <b>Non-Metro</b> regions have experienced a sharp increase in rental prices compared to Metro regions (with the exception of WA).  
+* <b>Non-Metro</b> regions have experienced a sharp increase in rental prices compared to Metro regions (with the exception of WA). 
+* Nationally, the number of available residential properties for rent continues to <b>decline.</b>
+* In 2022, <b>Melbourne</b> continues to have the most residential properties available for rent, with <b>Hobart</b> having the least.
  
 ## References
  
